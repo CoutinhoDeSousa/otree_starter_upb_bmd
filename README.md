@@ -35,3 +35,26 @@ To get started you need some basic Python knowledge, for that there are several 
 
 ### Otree 
 
+1. [Otree Documentation](https://otree.readthedocs.io/en/latest/install.html)
+2. There is a page for developing [otree experiments](https://www.otreehub.com/). We use the text-editor variant here.
+
+#### Usage of Pycharm
+1. Start a new Project and name it so you will recognize it in the future
+![img.png](img.png)
+2. open the terminal on the bottom of pycharm
+3. (optional) if not already done , install otree via 'pip3 install -U otree' if not already done
+4. now type in the terminal "otree startproject <myproject>" , where my project is the name of your project (the brackets are not to be used in this command, its just to show that you should change the myproject name)
+5. on the question if you want to include sample games say yes (type y and enter)
+6. After a few seconds there should be the project folder in the tree above 
+![img_1.png](img_1.png)
+7. move with the terminal into the projectfolder with 'cd myproject" 
+8. you can start otree now via 'otree devserver'![img_2.png](img_2.png)
+9. follow the link in the terminal - it is [localhost:8000 normally](http://localhost:8000/) 
+10. you started your otree testserver on your computer![img_3.png](img_3.png)
+
+##### Getting started with simple survey
+
+[Tutorial simple survey](https://otree.readthedocs.io/en/latest/tutorial/part1_texteditor.html)
+
+Click yourself through this tutorial to get an idea of how to work with otree in general.
+Every step is described and in the end you got yourself a basic survey to work on in the future 
