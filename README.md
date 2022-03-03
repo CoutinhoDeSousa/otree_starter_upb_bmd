@@ -15,6 +15,9 @@ The download of these two items are straightforward and should proceed as any ot
 
 Once you start PyCharm you should see the following starting screen. On the left, you find a history of your previous projects and on the right you have several options. When you start from scratch you first have to create a project where you afterwards can insert all your single Python files.
 ![img_14.png](img_14.png)
+When starting a new project, a virtual environment is always created automatically, so that the installations made for this environment are not system-wide but limited.
+You do not need to worry about this at the beginning, it is only which interpreter is used and that will be the one you have just installed.
+![img_13.png](img_13.png)
 Below you see the working screen. In the left panel you see information on your project and all the current files and subfolders. The main window is the one where the content of a file is shown to you and where you write your code
 
 ![img_8.png](img_8.png)
@@ -31,6 +34,7 @@ That’s it for the moment. As you can see PyCharm is a very powerful tool. Howe
 
 #### Interpreter 
 If PyCharm didn't find the python interpreter itself, you will get a warning. 
+
 To change it open the Setting (File -> Settings). 
 ![img_11.png](img_11.png)
 Go to Project: Name of your project and on Python interpreter
