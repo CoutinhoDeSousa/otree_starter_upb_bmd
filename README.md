@@ -40,9 +40,9 @@ To get started you need some basic Python knowledge, for that there are several 
 2. There is a page for developing [otree experiments](https://www.otreehub.com/). We use the text-editor variant here.
 
 #### Usage of Pycharm
-1.First you see a window like this, with all your projects, most likely thats empty
+1. First you see a window like this, with all your projects, most likely thats empty
 ![img.png](img.png)
-2.Start a new Project and name it so you will recognize it in the future ![img_5.png](img_5.png)
+2. Start a new Project and name it so you will recognize it in the future ![img_5.png](img_5.png)
 3. The next window will have a main.py![img_6.png](img_6.png)
    1. on the left you see the project structure, with every file and folder in it.
    2. on the right there is the area you program in.
