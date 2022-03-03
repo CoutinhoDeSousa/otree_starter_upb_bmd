@@ -42,10 +42,7 @@ To get started you need some basic Python knowledge, for that there are several 
 #### Usage of Pycharm
 1.First you see a window like this, with all your projects, most likely thats empty
 ![img.png](img.png)
-
-2.Start a new Project and name it so you will recognize it in the future
-![img_5.png](img_5.png)
-
+2.Start a new Project and name it so you will recognize it in the future ![img_5.png](img_5.png)
 3. The next window will have a main.py![img_6.png](img_6.png)
    1. on the left you see the project structure, with every file and folder in it.
    2. on the right there is the area you program in.
@@ -56,10 +53,10 @@ To get started you need some basic Python knowledge, for that there are several 
 7. on the question if you want to include sample games say yes (type y and enter)
 . After a few seconds there should be the project folder in the tree above 
 ![img_1.png](img_1.png)
-7. move with the terminal into the projectfolder with 'cd myproject" 
-8. you can start otree now via 'otree devserver'![img_2.png](img_2.png)
-9. follow the link in the terminal - it is [localhost:8000 normally](http://localhost:8000/) 
-10. you started your otree testserver on your computer![img_3.png](img_3.png)
+8. move with the terminal into the projectfolder with 'cd myproject" 
+9. you can start otree now via 'otree devserver'![img_2.png](img_2.png)
+10. follow the link in the terminal - it is [localhost:8000 normally](http://localhost:8000/) 
+11. you started your otree testserver on your computer![img_3.png](img_3.png)
 
 ##### Getting started with simple survey
 
