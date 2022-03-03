@@ -40,17 +40,19 @@ To change it open the Setting (File -> Settings).
 Go to Project: Name of your project and on Python interpreter
 ![img_12.png](img_12.png)
 There you choose the one installed.
-## 3.	Please work yourself through selected chapters of the e-book "Automate the Boring Stuff with Python" by Al Sweigart which you find on the Dropbox share. This e-book is for studying purposes only and must not be distributed to other people. 
+## 3. Begin your python journey	
+
+Please work yourself through selected chapters of the e-book "Automate the Boring Stuff with Python" by Al Sweigart which you find on the Dropbox share. This e-book is for studying purposes only and must not be distributed to other people. 
 
 Please have a closer look at the chapters Introduction and Chapters 1-4. You do not need to install anything in addition and you do not need to work on any of the exercises in the book. For executing the code that is presented in the book, use your PyCharm software. Just create a project, create for each chapter a new Python file, type in the code and execute it.  You should see in your console window the same outcome as in the book. Especially for beginners it is quite helpful to type the code yourself and execute it, instead of just having a look at it. 
 
 After reading the selected chapters, you should be ready to test your acquired knowledge on some exercises you find in the Dropbox folder. Please copy the folder "Tasks to practice" on your local drive. Then, in PyCharm choose File->Open Project and select the folder (or when you are at the starting screen choose Open Project and select the folder). Then you will see a collection of Python files. In each Python file we have a programming task for you. Some of the tasks may be easy, others harder. Try to solve as much of the tasks as possible and execute your code to see if you correctly solved them. To make sure that you do not skip to the solutions too quickly, the solution to the tasks will be uploaded not earlier than one week before the start of the course.
 
 
-## 4. Additional Reading 
+## 4. Additional Reading (only optional) 
 
-##### Reading
-- [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
+##### Reading 
+- [Automate the boring stuff with Python (Web Version)](https://automatetheboringstuff.com/)
 
 #### Course 
 - [Learn Python interactive Tutorial](https://www.learnpython.org/)  
