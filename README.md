@@ -41,7 +41,7 @@ To change it open the Setting (File -> Settings).
 Go to Project: Name of your project and on Python interpreter
 ![img_12.png](img_12.png)
 There you choose the one installed.
-## 3. Begin your python journey	
+## 3. Begin your Python journey	
 
 Please work yourself through selected chapters of the e-book "Automate the Boring Stuff with Python" by Al Sweigart which you find on the Dropbox share. This e-book is for studying purposes only and must not be distributed to other people. 
 
