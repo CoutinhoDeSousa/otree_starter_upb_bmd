@@ -11,13 +11,14 @@ Thus, please complete the following steps.
 
 The download of these two items are straightforward and should proceed as any other software you have installed on your computer. Python is the programming language that needs to be installed on your computer. We recommend PyCharm because it is a nice programming environment to execute any Python code (and program more complex projects). Otherwise you would have to use a text editor and a console which would prove to be extremely old-school and not so user friendly.
 
-## 2.	Working with PyCharm - A very brief starter
+## 2. Working with PyCharm - A very brief starter
 
 Once you start PyCharm you should see the following starting screen. On the left, you find a history of your previous projects and on the right you have several options. When you start from scratch you first have to create a project where you afterwards can insert all your single Python files.
 ![img_14.png](img_14.png)
 When starting a new project, a virtual environment is always created automatically, so that the installations made for this environment are not system-wide but limited.
-You do not need to worry about this at the beginning, it is only which interpreter is used and that will be the one you have just installed.
+You do not need to worry about this at the beginning, it is only which interpreter is used and that will be the one you have just installed. (In the line Base interpreter choose the location of the python version you just installed)
 ![img_13.png](img_13.png)
+
 Below you see the working screen. In the left panel you see information on your project and all the current files and subfolders. The main window is the one where the content of a file is shown to you and where you write your code
 
 ![img_8.png](img_8.png)
