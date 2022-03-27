@@ -1,0 +1,10 @@
+{{ block title }}
+    Your Guess
+{{ endblock }}
+{{ block content }}
+     {% formfield player.my_guess label="Please insert a number between 0 and 100" %}
+
+    {{ formfields }}
+    {{ next_button }}
+
+{{ endblock }}

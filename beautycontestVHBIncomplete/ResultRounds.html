@@ -1,0 +1,25 @@
+{{ block title }}
+    Result of this Round
+{{ endblock }}
+{{ block content }}
+
+<p>
+ Your chosen number: <strong>{{player.my_guess}}</strong>.<br>
+    <br>
+    Average of all chosen numbers:
+	<strong>{{ group_average|to2}}</strong><br>
+	Target Value (2/3 * Average of all chosen numbers):
+    <strong>{{ target_value|to2}}</strong><br>
+    Your difference was: {{diff|to2}}
+    <br>
+    <br>
+    You {% if player.is_winner %} won{% else %} did not win{% endif %}.
+	You therefore receive {% if player.is_winner %} one {% else %} no {% endif %} credit point.<br>
+
+
+</p>
+
+    {{ formfields }}
+    {{ next_button }}
+
+{{ endblock }}
