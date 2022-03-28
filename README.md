@@ -59,6 +59,7 @@ After reading the selected chapters, you should be ready to test your acquired k
 - [Learn Python interactive Tutorial](https://www.learnpython.org/)  
 - [Studytonight](https://www.studytonight.com/python/)
 - [FreeCodeCamp - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
 ##### Videos
 
 - [One big video lecture](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
