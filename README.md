@@ -27,8 +27,9 @@ Create a new (empty) Python file. Right-click on your project on the left panel 
  ![img_9.png](img_9.png)
 
 
-Now you are ready to program and execute Python code. Press your cursor somewhere in the main window and start typing. Whenever you are finished with your code and you want to execute it: place the cursor somewhere in the main window. Right-click on your mouse and select “Run <filename>.py”. Another window, the console window, will open at the bottom and display the outcome of the code execution
-![img_10_new.png](img_10_new.png)
+Now you are ready to program and execute Python code. Press your cursor somewhere in the main window and start typing. Whenever you are finished with your code and you want to execute it: place the cursor somewhere in the main window. Right-click on your mouse and select “Run <filename>.py”. Another window, the console window, will open at the bottom and display the outcome of the code execution.
+
+ ![img_10_new.png](img_10_new.png)
 
 To save the content of your current Python file go to the left panel, right-click on your <filename.py> file and say save. Once you execute the code the file will be saved automatically.
 
