@@ -28,7 +28,8 @@ Create a new (empty) Python file. Right-click on your project on the left panel 
 
 
 Now you are ready to program and execute Python code. Press your cursor somewhere in the main window and start typing. Whenever you are finished with your code and you want to execute it: place the cursor somewhere in the main window. Right-click on your mouse and select “Run <filename>.py”. Another window, the console window, will open at the bottom and display the outcome of the code execution
-![img_10.png](img_10.png)
+![img_10_new.png](img_10_new.png)
+
 To save the content of your current Python file go to the left panel, right-click on your <filename.py> file and say save. Once you execute the code the file will be saved automatically.
 
 That’s it for the moment. As you can see PyCharm is a very powerful tool. However at this stage you only need to know how to create a project, create an empty Python file, write your code in the main window, and execute it and view the outcome in the console window. Now you are set to proceed to step 3.
