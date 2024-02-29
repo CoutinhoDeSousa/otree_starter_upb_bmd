@@ -71,5 +71,3 @@ After reading the selected chapters, you should be ready to test your acquired k
 ##### Games
 - [CodingGame](https://www.codingame.com/start)
 
-
-![img_10_new.png](img_10_new.png)
